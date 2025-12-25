@@ -16,5 +16,6 @@ server_details = {
 }
 
 print("Server Details:")
+
 for key, value in server_details.items():
     print(f"{key}: {value}")
