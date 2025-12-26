@@ -19,3 +19,10 @@ The focus is on using Python for automation and system-level tasks relevant to D
 python src/hello.py
 python src/file_reader.py
 python src/system_info.py
+
+## Conditions and loop
+conditions_loops.py – Demonstrates decision-making logic using loops and conditions for server monitoring
+
+## How to Run
+```bash
+python conditions_loops.py
