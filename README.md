@@ -26,3 +26,6 @@ conditions_loops.py – Demonstrates decision-making logic using loops and condi
 ## How to Run
 ```bash
 python conditions_loops.py
+
+## Code reusable python functions
+- functions_automation.py – Uses reusable Python functions for server status and CPU monitoring automation
