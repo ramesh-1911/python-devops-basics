@@ -1,0 +1,12 @@
+server: web 01
+status: running
+cpu usage: 75
+--------------------
+server: db 01
+status: stopped
+cpu usage: 0
+--------------------
+server: cache 01
+status: running
+cpu usage: 55
+--------------------

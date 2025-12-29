@@ -29,3 +29,5 @@ python conditions_loops.py
 
 ## Code reusable python functions
 - functions_automation.py – Uses reusable Python functions for server status and CPU monitoring automation
+## generating server report
+- file_handling.py – Generates a server health report and writes it to a file
