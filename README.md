@@ -28,6 +28,9 @@ conditions_loops.py – Demonstrates decision-making logic using loops and condi
 python conditions_loops.py
 
 ## Code reusable python functions
-- functions_automation.py – Uses reusable Python functions for server status and CPU monitoring automation
+functions_automation.py – Uses reusable Python functions for server status and CPU monitoring automation
 ## generating server report
-- file_handling.py – Generates a server health report and writes it to a file
+file_handling.py – Generates a server health report and writes it to a file
+
+## exception handling
+exception_handling.py – Demonstrates safe error handling using try/except blocks
