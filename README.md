@@ -34,3 +34,5 @@ file_handling.py – Generates a server health report and writes it to a file
 
 ## exception handling
 exception_handling.py – Demonstrates safe error handling using try/except blocks
+## generating system health report
+system_health_check.py – End-to-end system health monitoring script generating a detailed report

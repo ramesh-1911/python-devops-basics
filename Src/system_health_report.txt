@@ -1,0 +1,18 @@
+System Health Report
+Generated at: 2026-01-05 17:37:26
+OS: Windows 10
+------------------------------
+Uptime:
+System Boot Time:          02-01-2026, 19:26:43
+
+Disk Usage:
+Caption  FreeSpace     Size          
+
+C:       41021079552   106906513408  
+
+E:       154930642944  285352128512  
+
+F:       14620577792   107374178304
+
+Memory Usage:
+Total Physical Memory:     3,935 MB
